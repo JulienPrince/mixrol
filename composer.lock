@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "261106b1e31dadc641d26ee4567c0a51",
+    "content-hash": "3d00dedbb46186e39db47775904fed37",
     "packages": [
         {
             "name": "composer/installers",
@@ -666,22 +666,22 @@
             "homepage": "https://wordpress.org/plugins/elementor/"
         },
         {
-            "name": "wpackagist-plugin/premium-addons-for-elementor",
-            "version": "3.20.7",
+            "name": "wpackagist-plugin/elementskit-lite",
+            "version": "1.5.7",
             "source": {
                 "type": "svn",
-                "url": "https://plugins.svn.wordpress.org/premium-addons-for-elementor/",
-                "reference": "trunk"
+                "url": "https://plugins.svn.wordpress.org/elementskit-lite/",
+                "reference": "tags/1.5.7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/premium-addons-for-elementor.zip?timestamp=1593130054"
+                "url": "https://downloads.wordpress.org/plugin/elementskit-lite.1.5.7.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
             },
             "type": "wordpress-plugin",
-            "homepage": "https://wordpress.org/plugins/premium-addons-for-elementor/"
+            "homepage": "https://wordpress.org/plugins/elementskit-lite/"
         },
         {
             "name": "wpackagist-plugin/seo-by-rank-math",
